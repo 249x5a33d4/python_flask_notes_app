@@ -14,6 +14,17 @@ A simple, secure, and persistent Sticky Notes application built with Python Flas
 - **API Endpoint**: Includes a simple JSON API for adding two numbers (`/addNum`).
 - **Responsive Design**: Simple and clean user interface.
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login_mockup.svg)
+
+### Dashboard
+![Dashboard](screenshots/dashboard_mockup.svg)
+
+### Edit Note
+![Edit Note](screenshots/edit_mockup.svg)
+
 ## Prerequisites
 
 - Python 3.x installed on your system.
