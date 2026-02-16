@@ -89,7 +89,7 @@ You can create additional users by running the provided helper script `data.py` 
 ```bash
 python data.py
 ```
-*Note: This script adds a user named "vamsi" with password "1234".*
+*Note: This script adds a user named "admin" with password "1234".*
 
 ## Project Structure
 
